@@ -39,8 +39,8 @@ Tambien contamos con un repositorio dedicado a lo que es el _SetUp_ del curso, e
 | Julio Huerta | jihuerta@uc.cl | [@Julius9](https://github.com/Julius9) |
 | Alvaro Romero | Aaromero1@uc.cl | [@Aaromero1](https://github.com/Aaromero1) |
 | Juan Gil | Mail | [@](https://github.com/Aaromero1) |
-| Constanza Ahumada | mail | [@](https://github.com/Aaromero1) |
-
+| Constanza Ahumada | Mail | [@](https://github.com/Aaromero1) |
+| Cristobal Moreno | crismo1712@uc.cl | [@](https://github.com/criism0) |
 
 ## Foro
 
