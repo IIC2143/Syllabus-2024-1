@@ -38,7 +38,7 @@ Tambien contamos con un repositorio dedicado a lo que es el _SetUp_ del curso, e
 | Pablo Bustos | pablo.bustos@uc.cl | [@pablobustose](https://github.com/pablobustose) |
 | Julio Huerta | jihuerta@uc.cl | [@Julius9](https://github.com/Julius9) |
 | Alvaro Romero | Aaromero1@uc.cl | [@Aaromero1](https://github.com/Aaromero1) |
-| Juan Gil | Mail | [@](https://github.com/Aaromero1) |
+| Juan Gil | juan.gil@uc.cl | [@Juancagp](https://github.com/Juancagp) |
 | Constanza Ahumada | cahumadar@uc.cl | [@cotyahumada](https://github.com/cotyahumada) |
 | Cristobal Moreno | crismo1712@uc.cl | [@criism0](https://github.com/criism0) |
 | Vicente Thomas | vicente.thomas@uc.cl | [@vicentethomas](https://github.com/vicentethomas) |
